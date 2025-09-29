@@ -43,3 +43,5 @@ Add **one more tool** you’re using (e.g., Docker, Hibernate, AWS).
 ## 📂 Project Structure
 
 
+<img width="565" height="143" alt="Screenshot 2025-09-29 at 1 49 29 PM" src="https://github.com/user-attachments/assets/f5dbbe78-775b-4197-8f4a-71666ecda3c0" />
+
